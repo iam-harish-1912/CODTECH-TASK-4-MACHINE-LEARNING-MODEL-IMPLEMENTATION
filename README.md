@@ -1,10 +1,10 @@
 # CODTECH-TASK-4-MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
-Name: HARISH.K
-Company: CODTECH IT SOLUTIONS
-ID: CT06DG2247
-Domain: Python Programming
-Duration: June to July 2025
+Name: HARISH.K                                         
+Company: CODTECH IT SOLUTIONS                              
+ID: CT06DG2247                                               
+Domain: Python Programming                                      
+Duration: June to July 2025                                              
 
 # 🤖 Project Overview: MACHINE LEARNING MODEL IMPLEMENTATION
 🎯 Objective:
